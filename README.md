@@ -1,3 +1,5 @@
+pip install bitstruct
+
 launch pcu.py on a multi socket system, running INTEL Sapphire Rapids
 
 will display in console mode the PCU registers, updates every 200ms, for exploration.
